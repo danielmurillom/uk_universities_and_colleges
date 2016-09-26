@@ -1,0 +1,1 @@
+A cleaned up dataset of the addresses and contact details for the 297 universities and colleges listed in the UCAS system.
